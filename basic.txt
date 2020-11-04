@@ -5,3 +5,6 @@ Earphone: ROCCAT Aluma-Premium Performance In-Ear Headset
 
 ########## Setting ##########
 Mouse DPI: 2800
+
+########## 備考 ##########
+マウスのエイムボタンを右ALTに設定．
