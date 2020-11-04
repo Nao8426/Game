@@ -1,3 +1,7 @@
-Device
+########## Device ##########
+Mouse: Logicool G402
+Keyboard: 東プレ REALFORCE R2
+Earphone: ROCCAT Aluma-Premium Performance In-Ear Headset
 
+########## Setting ##########
 Mouse DPI: 2800
