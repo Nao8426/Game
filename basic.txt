@@ -4,7 +4,7 @@ Keyboard: 東プレ REALFORCE R2
 Earphone: ROCCAT Aluma-Premium Performance In-Ear Headset
 
 ########## Setting ##########
-Mouse DPI: 2800
+Mouse DPI: 1600
 
 ########## 備考 ##########
 マウスのエイムボタン（サイドボタン3）を右ALTに設定．
